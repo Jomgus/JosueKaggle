@@ -127,7 +127,6 @@
   - `max_depth`: 6  
   - `learning_rate`: 0.1  
   - `n_estimators`: 100  
-  - Other parameters optimized using grid search.  
 
 ### **Performance**
 - **Validation MAP@7 Score:** 0.04
