@@ -43,10 +43,7 @@
 - **Feature Insights:**  
   - Histograms were created to visualize feature distributions across customer segments and product holding patterns.  
   - Correlations between features were analyzed using a heatmap.  
-  - Notable relationships:  
-    - Higher income (`renta`) correlated positively with product diversity.  
-    - Active customers (`ind_actividad_cliente=1`) showed a higher likelihood of acquiring new products.  
-
+  - Feature importance visualized from the MultiOutputClassifier class in scikit-learn which is used to train a classifier that can predict multiple target variables.
 ---
 
 ## **Data Cleaning and Preparation**
