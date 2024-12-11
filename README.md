@@ -97,6 +97,24 @@
   - Histograms were created to visualize feature distributions across customer segments and product holding patterns.  
   - Correlations between features were analyzed using a heatmap.  
   - Feature importance visualized from the MultiOutputClassifier class in scikit-learn which is used to train a classifier that can predict multiple target variables.
+
+<p align="center">
+  <img src="https://i.imgur.com/zLRELYp.png" width="500" alt="Library Image">
+</p>
+ 
+<p align="center">
+  <img src="https://i.imgur.com/i31CrKu.png" width="500" alt="Library Image">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/xS5TWZV.png" width="500" alt="Library Image">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/V94nOds.png" width="500" alt="Library Image">
+</p>
+
+
 ---
 
 ## **Data Cleaning and Preparation**
