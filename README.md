@@ -11,6 +11,8 @@
   The data is time-split, with training and test datasets separated chronologically. Public and private leaderboard datasets are split randomly.  
 - **Dataset Description:**  
   The dataset contains monthly records of customer activity, demographic information, and product holdings. Features include customer age, gender, income, and activity indices. The target is to predict additional product purchases from 24 possible options.
+- **Results: unreliable as I got a higher MAP@7 score than the high score with .04 **  
+
 
 | Column Name                 | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
